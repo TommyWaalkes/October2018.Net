@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\FizzBuzz\obj\Debug\FizzBuzz.pdb
