@@ -10,45 +10,39 @@ namespace FileIOObjects
     class FileDisplay
     {
         private string path;
-        private StreamReader sr;
+      
         public FileDisplay(string path)
         {
             this.path = path;
-            sr = new StreamReader(path);
         }
 
-        public string GetNextLine()
+        public string GetSingleLine(int line)
         {
-            try
-            {
-                string output = sr.ReadLine();
-                return output;
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.HelpLink);
-                return "Next Line not found";
-            }
+            StreamReader sr = new StreamReader(path);
+            string output = sr.ReadToEnd();
+            string[] lines = output.Split('\n');
+            sr.Close();
+
+            return lines[line];
         }
 
         public string GetAllRemainingLines()
         {
+            StreamReader sr = new StreamReader(path);
             try
             {
+               
                 string output = sr.ReadToEnd();
+                sr.Close();
                 return output;
             }
             catch(Exception e)
             {
+                sr.Close();
                 Console.WriteLine(e.HelpLink);
                 return "No New Lines Found";
             }
             
-        }
-
-        public void CloseFile()
-        {
-            sr.Close();
         }
     }
 }

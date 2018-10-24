@@ -11,36 +11,33 @@ namespace FileIOObjects
         static void Main(string[] args)
         {
             //We need a file path, a full one, C# does not do relative paths 
-            string path = @"C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\file2.txt";
-            string path2 = @"C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\file.txt";
+            string path = @"C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\file2.txt";
             FileDisplay fp = new FileDisplay(path);
 
-            Console.WriteLine("This grabs it line by line");
-            while (true)
-            {
-                string output1 = fp.GetNextLine();
-                Console.WriteLine();
-                Console.WriteLine(output1);
-                if(output1== null)
-                {
-                    break;
-                }
-            }
+            Console.WriteLine("This grabs the string by index");
+           
+            string s = fp.GetSingleLine(0);
+            Console.WriteLine(s);
+            Console.WriteLine();
+
 
             Console.WriteLine("This grabs it all at once: ");
-            fp.CloseFile();
 
-            fp = new FileDisplay(path);
             string output2 = fp.GetAllRemainingLines();
             Console.WriteLine(output2);
 
 
-            FileWriter fw = new FileWriter(path2);
+            Console.WriteLine("Okay let's try to write to the file");
 
-            string s = "Get off muh lawn ya dang kids";
+            FileWriter writer = new FileWriter(path);
+            writer.AddToFile("I want a big mac");
 
-            fw.WriteToFile(output2 + s);
-            fw.Close();
+            Console.WriteLine("Alright Let's check if it worked: ");
+            Console.WriteLine();
+
+            FileDisplay reader = new FileDisplay(path);
+
+            Console.WriteLine(reader.GetAllRemainingLines());
         }
     }
 }

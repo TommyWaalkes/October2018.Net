@@ -10,21 +10,30 @@ namespace FileIOObjects
     class FileWriter
     {
         string path;
-        StreamWriter sw;
         public FileWriter(string path)
         {
             this.path = path;
-            sw = new StreamWriter(path);
         }
 
-        public void WriteToFile(string input)
+        public void OverWriteFile(string input)
         {
-            sw.Write(input);
+            StreamWriter writer = new StreamWriter(path);
+            writer.Write(input);
+            writer.Close();
         }
 
-        public void Close()
+        public void AddToFile(string input)
         {
-            sw.Close();
+            StreamReader reader = new StreamReader(path);
+            string fileText = reader.ReadToEnd();
+            fileText = fileText + input;
+            reader.Close();
+
+            StreamWriter writer = new StreamWriter(path);
+            writer.WriteLine(fileText);
+
+            writer.Close();
         }
+
     }
 }
