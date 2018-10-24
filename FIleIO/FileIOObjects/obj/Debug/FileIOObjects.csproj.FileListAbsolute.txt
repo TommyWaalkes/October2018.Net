@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\bin\Debug\FileIOObjects.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\bin\Debug\FileIOObjects.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\bin\Debug\FileIOObjects.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\obj\Debug\FileIOObjects.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\obj\Debug\FileIOObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\obj\Debug\FileIOObjects.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FileIOObjects\obj\Debug\FileIOObjects.pdb

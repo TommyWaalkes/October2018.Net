@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\bin\Debug\Debugging.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\obj\Debug\Debugging.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\Debugging\obj\Debug\Debugging.pdb

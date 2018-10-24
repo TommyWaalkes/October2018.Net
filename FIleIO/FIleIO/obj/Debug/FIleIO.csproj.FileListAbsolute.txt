@@ -1,0 +1,26 @@
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\bin\Debug\FIleIO.exe.config
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\bin\Debug\FIleIO.exe
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\bin\Debug\FIleIO.pdb
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\obj\Debug\FIleIO.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\obj\Debug\FIleIO.exe
+c:\users\tommy\documents\visual studio 2015\Projects\FIleIO\FIleIO\obj\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\bin\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\FIleIO\FIleIO\obj\Debug\FIleIO.csprojResolveAssemblyReference.cache

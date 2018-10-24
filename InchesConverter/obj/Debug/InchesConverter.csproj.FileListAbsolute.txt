@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\bin\Debug\InchesConverter.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\bin\Debug\InchesConverter.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\bin\Debug\InchesConverter.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\obj\Debug\InchesConverter.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\obj\Debug\InchesConverter.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\obj\Debug\InchesConverter.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\InchesConverter\obj\Debug\InchesConverter.pdb

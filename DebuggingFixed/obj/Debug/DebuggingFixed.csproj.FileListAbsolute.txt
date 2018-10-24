@@ -1,0 +1,6 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\bin\Debug\DebuggingFixed.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\bin\Debug\DebuggingFixed.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\bin\Debug\DebuggingFixed.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\obj\Debug\DebuggingFixed.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\obj\Debug\DebuggingFixed.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Code Examples\DebuggingFixed\obj\Debug\DebuggingFixed.pdb
