@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\obj\Debug\LinearSearch.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\LinearSearch\obj\Debug\LinearSearch.pdb
