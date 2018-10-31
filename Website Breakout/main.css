@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+
+.redText{
+    color: red;
+}
+
+p, h1, h2, h3, ul, ol{
+    font-family: Arial;
+    font-size: 100px;
+}
