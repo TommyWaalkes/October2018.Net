@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    string[] people = { "Jani", "Hege", "Kai", "Jim" };
+    List<string> foods = new List<string>() { "Apple", "Egg", "Salmon" };
+
+    int AddOne(int x)
+    {
+        return x + 1;
+    }
+
+    int num = AddOne(1);
+}
+
+<p style="color:plum">@num</p>
+<h1>Array Printed using a foreach loop </h1>
+@foreach (string person in people)
+{
+    <p>@person</p>
+}
+
+
+<h1>List Printed using a for loop</h1>
+@for(int i = 0; i<foods.Count; i++)
+{
+    <p>@foods[i]</p>
+}
+@{int total = foods.Count + people.Length;}
+<h1>Let's count all the items in my lists and arrays!</h1>
+<p>Total items in both my lists = @total  </p>

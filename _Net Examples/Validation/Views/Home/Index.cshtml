@@ -1,0 +1,29 @@
+﻿<h2>Register</h2>
+
+<p>There are a myriad of ways to tackle validation</p>
+
+<p>Here are three of the most common in MVC.Net:</p>
+
+<ul>
+    <li>1. HTML5 form options (the type attribute)</li>
+    <li>2. Data Annotations (Further reading here: https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/mvc-music-store/mvc-music-store-part-6 )</li>
+    <li>Data Annotations of note: [Required], [Key], [StringLength] </li>
+    <li>3. Javascript (Note: be very deliberate using JS, .Net will not wait for JS to finish and therefore your JS may stop halfway through)</li>
+    <li>One final note: as with many things .Net this list is by no means exhaustive, .Net has countless extensions, packages, and frameworks, these method I showed will be a) some of the most common, b) give you the most benefit for the least amount of work (well maybe not JS) </li>
+</ul>
+
+<p>Let's sit down craft a form from scratch, then add in validation. The purpose of this exercise is twofold: Practice with Html/CSS/JS and Practice validating models in MVC</p>
+How do you use decimals in a form?
+<form method="get" action="Success">
+    <p>Make:</p>
+    <input name="Make" type="email" />
+    <p>Mileage:</p>
+    <input name="Mileage" type="number" step=".1"/>
+
+    <p>Password:</p>
+    <input name="Password" type="password" />
+    <p>Phone Number:</p>
+    <input name="Phone" type="tel" />
+    <input type="submit"/>
+    
+</form>
