@@ -15,7 +15,7 @@ namespace StateManagement.Controllers
             Dogs.Add("Sparky");
             Dogs.Add("Muffin");
             Dogs.Add("LuLu");
-            ViewData["MyDogs"] = "Hannibal Barka";
+            ViewData["MyDogs"] = Dogs;
 
             List<String> Cats = new List<string>();
             Cats.Add("Inky");
@@ -89,6 +89,15 @@ namespace StateManagement.Controllers
             Toy t = new Toy("Rocket Ship", 4, 0.99, true);
 
             return View(t);
+        }
+
+        public ActionResult Logout()
+        {
+            ViewBag.name = Session["Name"];
+            Session["Name"] = null;
+            
+            
+            return View();
         }
     }
 }
