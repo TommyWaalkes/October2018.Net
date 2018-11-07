@@ -1,0 +1,15 @@
+﻿@if (Session["Name"] != null)
+{
+    @Session["Name"]
+}
+else
+{
+    
+    string output = "The Session hasn't been initialized";
+    
+    @output
+}
+
+<p>@ViewBag.Name</p>
+<p>@ViewBag.Color</p>
+

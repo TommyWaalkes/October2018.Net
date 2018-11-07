@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@{ 
+    var Dogs = ViewData["MyDogs"];
+    var Cats = ViewBag.MyCats;
+    
+}
+<h2>View Data aka ViewBag with a Key</h2>
+<div>@ViewData["MyDogs"]</div>
+
+<h2>You Flithy ViewBag</h2>
+<div>@ViewBag.MyCats</div>
+
+
