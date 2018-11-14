@@ -1,0 +1,18 @@
+﻿@model IEnumerable<CodeFirstTest.Models.Cat>
+
+<form action="Result">
+    <h2>Cat 1</h2>
+    @foreach (var c in ViewBag.cats)
+    {
+        <p>@c.Name<input name="ID" type="radio" value="@c.ID" /></p>
+    }
+    <br />
+    <br/>
+
+    <h2>Cat 2</h2>
+    @foreach (var c in ViewBag.cats)
+    {
+        <p>@c.Name<input name="ID2" type="radio" value="@c.ID" /></p>
+    }
+    <input type="submit" />
+</form>
