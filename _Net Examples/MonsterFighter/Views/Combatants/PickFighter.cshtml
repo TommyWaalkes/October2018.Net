@@ -1,0 +1,14 @@
+﻿<form action="Fight">
+    <h2>Pick Fighter 1</h2>
+    @foreach (var c in ViewBag.Combatants)
+    {
+        <p>@c.Name : <input type="radio" name="ID1" value="@c.ID" /></p>
+    }
+
+    <h2>Pick Fighter 2</h2>
+    @foreach (var c in ViewBag.Combatants)
+    {
+        <p>@c.Name : <input type="radio" name="ID2" value="@c.ID" /></p>
+    }
+    <input type="submit" />
+</form>

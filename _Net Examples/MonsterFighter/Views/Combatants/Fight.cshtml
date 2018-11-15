@@ -1,0 +1,21 @@
+﻿@model MonsterFighter.Models.Combatant
+
+<h2>FIIIIIIGHT!!!</h2>
+@{
+    MonsterFighter.Models.Combatant f1
+        = (MonsterFighter.Models.Combatant)Session["Fighter1"];
+    MonsterFighter.Models.Combatant f2
+       = (MonsterFighter.Models.Combatant)Session["Fighter2"];
+}
+
+<h2>Fighter 1: @f1.Name</h2>
+<p>Attack: @f1.Attack</p>
+<p>HP: @f1.Hp</p>
+
+<h2>Fighter 2: @f2.Name</h2>
+<p>Attack: @f2.Attack</p>
+<p>HP: @f2.Hp</p>
+
+@*<form action="Fight">
+    <input type="submit" value="FIGHT!" />
+</form>*@
