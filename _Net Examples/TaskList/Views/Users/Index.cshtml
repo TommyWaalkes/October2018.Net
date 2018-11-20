@@ -1,0 +1,21 @@
+﻿@model IEnumerable<TaskList.Models.Task>
+
+@ViewBag.Name 's tasks 
+
+<table>
+    <tr>
+        <th><h3>Description</h3></th>
+        <th><h3>Done?</h3></th>
+        <th><h3>Due Date</h3></th>
+    </tr>
+@foreach (var t in Model)
+{
+    <tr>
+        <td>@t.Description</td>
+        <td>@t.Complete</td>
+        <td>@t.DueDate</td>
+    </tr>
+}
+    </table>
+
+@Html.ActionLink("Create New Task", "CreateTask", "Users")

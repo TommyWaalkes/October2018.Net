@@ -1,0 +1,17 @@
+﻿@model TaskList.Models.Task
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add a Task</h2>
+
+<form method="post" action="CreateTask">
+
+    <p>Description: <input type="text" name="Description" /></p>
+    <p>Due Date: <input type="date" name="DueDate" min="2000-01-01"/></p>
+    <p>Complete: <input type="checkbox" name="Complete" /></p>
+
+    <input type="submit" />
+</form>
+
